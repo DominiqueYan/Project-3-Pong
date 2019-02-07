@@ -53,7 +53,7 @@ module.exports = {
     watchContentBase: true,
     historyApiFallback: true,
     open: true,
-    port: 3000,
+    port: 3005,
     publicPath: '/build/',
     stats: 'errors-only',
     watchOptions: {
